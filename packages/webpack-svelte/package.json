@@ -7,7 +7,7 @@
   "author": "JounQin <admin@1stg.me>",
   "license": "MIT",
   "peerDependencies": {
-    "svelte": ">=3.0.0"
+    "svelte": ">=3.38.3"
   },
   "dependencies": {
     "@pkgr/webpack": "^1.0.0",
