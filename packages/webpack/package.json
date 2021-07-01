@@ -20,11 +20,11 @@
   "dependencies": {
     "@1stg/babel-preset": "^2.0.0",
     "@1stg/postcss-config": "^2.1.0",
-    "@babel/core": "^7.14.3",
+    "@babel/core": "^7.14.6",
     "@pkgr/es-modules": "^0.4.0",
     "@pkgr/umd-globals": "^0.6.0",
     "@pkgr/utils": "^1.0.0",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.2.2",
     "cache-loader": "^4.1.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "commander": "^7.2.0",
